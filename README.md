@@ -9,6 +9,9 @@ This application allows the user to create a simple logo.svg file which generate
 ## Challenge:
 Your task is to build a Node.js command-line application that takes in user input to generate a logo and save it as an SVG file Links to an external site.. The application prompts the user to select a color and shape, provide text for the logo, and save the generated SVG to a .svg file.
 
+## Walk through video
+https://drive.google.com/file/d/1M7HaNiRHtU-JW85L8QktHHNJBNLzeS5e/view?usp=drive_link 
+
 
 ## USER STORY: 
 AS a freelance web developer
